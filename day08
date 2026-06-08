@@ -1,0 +1,15 @@
+*What I learnt from this task:*
+1. Prompt-driven development: A well-structured prompt can make Claude build a full interactive dashboard without writing code line-by-line.
+2. HTML + JS in Claude Artifacts: Claude can generate a complete, downloadable HTML app with charts, filters, and CSS in one go. No setup needed.
+3. Iterate with context: Pasting the "Environmental Health Analyzer" prompt + testing → giving feedback → Claude refines it. That’s faster than coding from scratch.
+4. From idea to deploy: Learnt the full flow: prompt → generate → test → screenshot → document → GitHub commit. That’s how real dev projects ship.
+5. Documenting learning matters: Adding day8.md with screenshots + learnings makes your GitHub portfolio stronger for recruiters.
+
+*Tools used:*
+1. Claude AI – For generating the dashboard code from a prompt
+2. HTML/CSS/JavaScript – Core tech for the interactive dashboard + filters + charts
+3. Git + GitHub – Version control, Day8 folder, day8.md, commit & push
+4. Screenshots/Snip tool – For capturing dashboard UI + GitHub repo
+5. Browser – To test filters, charts, and interactions live
+
+Want me to format this as markdown table for your `day8.md` too?
